@@ -10,3 +10,6 @@ console.log(transation);
 
 const mainPart = "section main part";
 console.log(mainPart);
+
+let footer = "below part";
+console.log(footer);
