@@ -6,3 +6,7 @@ console.log(web);
 
 const transation = `get money`;
 console.log(transation);
+
+
+const mainPart = "section main part";
+console.log(mainPart);
