@@ -23,3 +23,6 @@ let b = 20;
 let add = a  + b;
 
 console.log(add);
+
+// i am fixing bug
+console.log("bug fixing !");
